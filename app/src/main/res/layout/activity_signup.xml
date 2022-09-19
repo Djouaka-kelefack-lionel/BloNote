@@ -38,9 +38,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Bon retour"
+            android:text="Inscrivez-vous"
             android:textAlignment="center"
-            android:textSize="23dp"
+            android:textStyle="bold"
+            android:textSize="30dp"
             android:textColor="#DE3163">
 
         </TextView>
@@ -100,7 +101,7 @@
             android:layout_height="wrap_content"
             android:textStyle="bold"
             android:layout_marginStart="8dp"
-            android:textSize="16sp"
+            android:textSize="30sp"
             android:text="S'inscrire"
             android:layout_centerInParent="true"
             android:textColor="@color/white">

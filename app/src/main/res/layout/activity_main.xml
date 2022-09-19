@@ -102,7 +102,7 @@
             android:layout_height="wrap_content"
             android:textStyle="bold"
             android:layout_marginStart="8dp"
-            android:textSize="16sp"
+            android:textSize="25sp"
             android:text="Se connecter"
             android:layout_centerInParent="true"
             android:textColor="@color/white">
@@ -141,8 +141,8 @@
             android:layout_height="wrap_content"
             android:textStyle="bold"
             android:layout_marginStart="8dp"
-            android:textSize="16sp"
-            android:text="Nouveau ! Se connecter ?"
+            android:textSize="25sp"
+            android:text="Nouveau ! S'inscrire ?"
             android:layout_centerInParent="true"
             android:textColor="@color/white">
 
