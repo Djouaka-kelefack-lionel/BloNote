@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603785633442",
+    "project_id": "blonote-3489a",
+    "storage_bucket": "blonote-3489a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603785633442:android:3da01b64c05066a6e6c1fb",
+        "android_client_info": {
+          "package_name": "com.injilionel.blonote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603785633442-2rvirggfo95anme74hg7i608qo4f7o3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnAnTFU57l_B7Gbu4yI0Ahiy-FKBpUqO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603785633442-2rvirggfo95anme74hg7i608qo4f7o3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
